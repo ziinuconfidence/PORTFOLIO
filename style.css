@@ -1,0 +1,86 @@
+body { background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 1vw;
+}
+
+
+div.profile { text-align: center;
+               margin-top: 6vw;}
+
+div.profile2 { text-align: center;
+                margin-bottom: 5vw;}                
+
+.imag { width: 7%;
+        border-radius: 30vw;}
+
+.imag2 { width: 3%;
+        border-radius: 20vw;}
+
+.imag5 { width: 11%;
+       
+}
+    
+
+.imag3 { width: 30%;
+        border-radius: 20vw;}
+
+.imag4 { width: 40%;
+        border-radius: 20vw;}
+
+.con1 { background-color: black;
+        margin-left: 25vw;
+        background-color: white;
+        padding: 2vw;
+        padding-top: 10vw;
+        width: 10%;
+        height: 20vw;
+        font-size: 1.5vw;
+        border: 0.5vw solid white;
+        border-radius: 10vw;
+        margin-top: 9vw;
+        float: left;
+        margin-bottom: 10vw;
+        text-align: center;
+}
+
+.con2 { background-color: black;
+    margin-right: 1.2vw;
+    padding: 2vw;
+    padding-top: 10vw;
+    width: 10%;
+    height: 20vw;
+    font-size: 1.5vw;
+    background-color:rgb(8, 106, 219) ;
+    border: 0.5vw solid rgb(8, 106, 219);
+    border-radius: 10vw;
+    margin-top: 9vw;
+    float: right;
+    margin-bottom: 10vw;
+}
+
+.con3 { background-color: black;
+    margin-right: 27vw;
+    padding: 2vw;
+    padding-top: 10vw;
+    width: 10%;
+    height: 20vw;
+    font-size: 1.5vw;
+    background-color: rgb(187, 63, 5);
+    border: 0.5vw solid rgb(187, 63, 5);
+    border-radius: 10vw;
+    margin-top: 9vw;
+    float: right;
+    margin-bottom: 10vw;
+}
+
+.a1 { color: rgb(0, 0, 0);
+    text-decoration: none;}
+
+.a2 { color: rgb(255, 255, 255);
+        text-decoration: none;}
+        
+.a3 { color: rgb(255, 255, 255);
+    text-decoration: none;}
